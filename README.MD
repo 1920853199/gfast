@@ -1,3 +1,5 @@
+> 定时任务在线用户可以学习一下
+
 ## 平台简介
 * 基于GF(Go Frame)的后台管理系统
 * 前端采用ruoyi-ui 、Vue、Element UI。
